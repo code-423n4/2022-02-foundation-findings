@@ -1,0 +1,9 @@
+{
+  "contest": 94,
+  "handle": "Afanasyevich",
+  "address": "0x728dC35758C79c54389ddf5Da1D6Eb55a502f698",
+  "risk": "3",
+  "title": "Mapping nftContractToTokenIdToBuyPrice is not deleted correctly",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2022-02-foundation-findings/issues/20"
+}
