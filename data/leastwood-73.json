@@ -1,0 +1,9 @@
+{
+  "contest": 94,
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "2",
+  "title": "Fees Are Incorrectly Charged on Unfinalized NFT Sales",
+  "issueId": 73,
+  "issueUrl": "https://github.com/code-423n4/2022-02-foundation-findings/issues/73"
+}
