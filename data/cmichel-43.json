@@ -1,0 +1,9 @@
+{
+  "contest": 94,
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "Missing receiver validation in `withdrawFunds`",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2022-02-foundation-findings/issues/43"
+}
