@@ -1,0 +1,9 @@
+{
+  "contest": 94,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "[WP-H4] Inappropriate implementation of `NFTMarketFees#_getFees()` can result in incorrect distribution when the seller is one of the royalty recipients",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2022-02-foundation-findings/issues/56"
+}
