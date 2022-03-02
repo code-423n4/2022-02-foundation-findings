@@ -1,0 +1,9 @@
+{
+  "contest": 94,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "Rare scenario where seller can steal NFT after an auction by creating an offer for it through reentrancy",
+  "issueId": 62,
+  "issueUrl": "https://github.com/code-423n4/2022-02-foundation-findings/issues/62"
+}
