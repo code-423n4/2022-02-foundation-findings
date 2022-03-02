@@ -1,0 +1,9 @@
+{
+  "contest": 94,
+  "handle": "thankthedark",
+  "address": "0x22f2a6be015a3951cf75d4883167b9f79699cd4b",
+  "risk": "2",
+  "title": "EIP-712 signatures can be re-used in private sales",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2022-02-foundation-findings/issues/68"
+}
