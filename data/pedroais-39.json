@@ -1,0 +1,9 @@
+{
+  "contest": 94,
+  "handle": "pedroais",
+  "address": "0x7b13eB3F49525DcF09c01DbBbd34Af8a4C8C83B5",
+  "risk": "2",
+  "title": "Primary seller can avoid paying the primary fee",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2022-02-foundation-findings/issues/39"
+}
