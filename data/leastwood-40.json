@@ -1,0 +1,9 @@
+{
+  "contest": 94,
+  "handle": "leastwood",
+  "address": "0x28235dE0121700a462B5098Cff7D3615b050551F",
+  "risk": "3",
+  "title": "NFT Sellers Can Steal Funds if an Offer is Accepted on an Unfinalized Auction",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2022-02-foundation-findings/issues/40"
+}
