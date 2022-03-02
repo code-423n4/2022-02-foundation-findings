@@ -1,0 +1,9 @@
+{
+  "contest": 94,
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "2",
+  "title": "`LockedBalance` library should drop parameters to 96/32 bits",
+  "issueId": 44,
+  "issueUrl": "https://github.com/code-423n4/2022-02-foundation-findings/issues/44"
+}
